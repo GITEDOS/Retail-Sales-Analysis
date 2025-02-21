@@ -1,9 +1,9 @@
-**#Retail Sales Analysis  
+**#Retail Sales Analysis**
 
 ##Overview 
 This project analyzes **retail sales data** over a year, focusing on:  
 **Sales Growth**   
-**Customer Segmentation  **
+**Customer Segmentation**
 
 ##Dataset  
 **Dummy Sales Data** with:  
