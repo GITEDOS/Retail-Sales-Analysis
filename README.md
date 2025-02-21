@@ -10,7 +10,7 @@ This project analyzes **retail sales data** over a year, focusing on:
 - Product Categories  
 - Customer Segments  
 - Regional Sales Distribution  
-- Sales & Profit increasing over time  
+- Sales increasing over time  
 
 ## **Key Insights**  
 **Sales Growth Trends:**  
