@@ -38,7 +38,7 @@ This project analyzes **retail sales data** over a year, focusing on:
 
 
 ## **How to Use This Project**  
-1**Download the dataset:** [Retail_Sales_Analysis.xlsx](#)  
+1**Download the dataset:** [Retail_Sales_Data.xlsx](#)  
 2**Open in Excel** and explore:  
    - Pivot Tables  
    - Charts & Graphs  
