@@ -31,10 +31,9 @@ This project analyzes **retail sales data** over a year, focusing on:
 **Excel**: Pivot Tables, Formulas, Charts, Dashboards  
 
 ## **Visuals**  
-![2025-02-21 (1)](https://github.com/user-attachments/assets/62343c26-279b-426c-8b27-9950e86c2ef6)
-![2025-02-21 (2)](https://github.com/user-attachments/assets/32f6c033-c22f-4df3-b1ef-1dda640ee914)
-![2025-02-21 (3)](https://github.com/user-attachments/assets/61e27f8e-4fe4-479d-9c7e-b8030454e865)
-![2025-02-21 (4)](https://github.com/user-attachments/assets/a4780a21-c920-41c1-b13e-dff239a86bdf)
+![2025-02-21 (6)](https://github.com/user-attachments/assets/0c6c26d1-fc6b-4418-9524-d2812e6b2586)
+![2025-02-21 (7)](https://github.com/user-attachments/assets/b67a2444-f713-48a0-aed4-223b2ce929b6)
+![2025-02-21 (8)](https://github.com/user-attachments/assets/26ed7a48-82c2-42b7-961b-d028768dd811)
 
 
 ## **How to Use This Project**  
